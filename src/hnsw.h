@@ -1,13 +1,13 @@
-//
-// Created by Tejas on 8/30/2025.
-//
 
 #ifndef HNSW_H
+#pragma once
 #define HNSW_H
 
 namespace nsgraph {
 
 class hnsw {
+
+
 
 };
 

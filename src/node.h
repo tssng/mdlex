@@ -5,9 +5,14 @@
 #ifndef NODE_H
 #define NODE_H
 
+#include <stdint.h>
+
 namespace nsgraph {
 
 class node {
+    // members
+    private:
+
 
 };
 
