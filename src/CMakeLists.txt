@@ -4,8 +4,8 @@
 add_library(mdlex_lib
         distance.cpp
         hnsw.cpp
-        node.cpp
-        vectordata.cpp
+        Graph.cpp
+        VectorData.cpp
 )
 
 # This crucial line makes the header files visible. It tells CMake that
